@@ -1,0 +1,14 @@
+InterNotes Web Navigator provides managed, secure access to the Internet and Web!
+
+InterNotes Web Navigator delivers &quot;Team Surfing&quot; allowing users to share the experience of the Internet within a workgroup or as individuals.  Web Navigator is much more than a browsing tool, it is Internet access integrated into the core Notes environment, enabling teams of users to collaborate, coordinate, and communicate Web content.  Web Navigator database (WEB.NSF) features, such as Web Tours, Recommended Pages, and views, uniquely transform the experience of an individual surfing the web into a team experience of sharing valuable knowledge.
+
+By supplying this capability in the form of @functions and LotusScript methods, Lotus gives the Notes development community the opportunity to make every application a web application.  Customers can completely customize the look &amp; feel of the Web by modifying the Web Navigator database.
+
+Customers are making the most of the Web Navigator by:
+
+Getting their favorite online newspaper delivered to their mailbox via server agents every morning
+Fetching stock prices from  free stock quote servers hourly, excluding weekends
+Worm web sites to &quot;bulk fetch&quot; web information via server agents during low traffic periods
+Monitoring online magazine and news services for timely automated information retrieval
+Applying Verity's powerful search engine to sift through the mountains of web information
+
